@@ -43,4 +43,4 @@ Contribuciones son bienvenidas. Si deseas mejorar el proyecto, sigue estos pasos
 
 **Rock & EDM Festival** - Todos los derechos reservados.
 
-Hecho con ❤️ por [emanuelB1]
+Hecho con ❤️ por [emanuelB1] (https://github.com/emanuelB1)
