@@ -1,25 +1,14 @@
 # Rock & EDM Festival
 
-[Descripción breve del proyecto]
-
-![Vista previa del sitio](url_de_la_imagen)
 
 ## Tabla de contenidos
 
-- [Descripción](#rock--edm-festival)
-- [Capturas de pantalla](#capturas-de-pantalla)
 - [Características](#características)
 - [Requisitos](#requisitos)
 - [Instalación](#instalación)
 - [Uso](#uso)
 - [Contribuciones](#contribuciones)
 - [Licencia](#licencia)
-
-## Capturas de pantalla
-
-![Captura de pantalla 1](captura1.png)
-![Captura de pantalla 2](captura2.png)
-![Captura de pantalla 3](captura3.png)
 
 ## Características
 
@@ -32,11 +21,6 @@
 - Navegador web moderno compatible con HTML5, CSS3 y JavaScript.
 - Conexión a Internet para cargar recursos externos.
 
-## Instalación
-
-1. Clona este repositorio: `git clone https://github.com/tu-usuario/tu-repositorio.git`
-2. Ve a la carpeta del proyecto: `cd tu-repositorio`
-3. Abre el archivo `index.html` en tu navegador web.
 
 ## Uso
 
@@ -55,11 +39,7 @@ Contribuciones son bienvenidas. Si deseas mejorar el proyecto, sigue estos pasos
 4. Haz push a la rama: `git push origin mejora/funcionalidad`
 5. Abre un pull request en GitHub.
 
-## Licencia
 
-Este proyecto está bajo la Licencia [Nombre de la Licencia]. Para más detalles, consulta el archivo [LICENSE](LICENSE).
-
----
 
 **Rock & EDM Festival** - Todos los derechos reservados.
 
